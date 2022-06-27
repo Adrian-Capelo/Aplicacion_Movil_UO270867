@@ -1,0 +1,14 @@
+{
+  "appTitle": "app_indi_adrian_capelo",
+  "titulo": "Información de la galería:",
+  "direccion": "Dirección:",
+  "email": "Email",
+  "codigoPostal": "Código postal:",
+  "municipio": "Municipio:",
+  "pedania": "Pedanía:",
+  "contacto": "Contacto",
+  "web": "Página web",
+  "botones": "Contacto y web:",
+  "mapa": "Donde encontrarnos:",
+  "filtro": "Filtro por municipios"
+}
